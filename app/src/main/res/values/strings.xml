@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Viajes UDB</string>
+
+    <!-- Login / Registro -->
+    <string name="title_login">Iniciar sesión</string>
+    <string name="title_register">Crear cuenta</string>
+    <string name="hint_email">Correo electrónico</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="btn_login">Ingresar</string>
+    <string name="btn_go_to_register">¿No tienes cuenta? Regístrate</string>
+    <string name="btn_register">Registrarme</string>
+    <string name="btn_go_to_login">¿Ya tienes cuenta? Inicia sesión</string>
+
+    <!-- Catálogo -->
+    <string name="title_catalog">Catálogo de destinos</string>
+    <string name="btn_add_destino">Agregar destino</string>
+    <string name="btn_logout">Cerrar sesión</string>
+    <string name="empty_catalog">Aún no hay destinos registrados</string>
+
+    <!-- Formulario de destino (Create/Update) -->
+    <string name="title_new_destino">Nuevo destino</string>
+    <string name="title_edit_destino">Editar destino</string>
+    <string name="hint_nombre_destino">Nombre del destino</string>
+    <string name="hint_pais">País</string>
+    <string name="hint_precio">Precio del paquete</string>
+    <string name="hint_descripcion">Descripción del viaje</string>
+    <string name="btn_select_image">Seleccionar imagen</string>
+    <string name="btn_save">Guardar</string>
+    <string name="btn_delete">Eliminar</string>
+
+    <!-- Validaciones -->
+    <string name="error_campo_vacio">Este campo es obligatorio</string>
+    <string name="error_precio_invalido">El precio debe ser un número mayor a 0</string>
+    <string name="error_descripcion_corta">La descripción debe tener al menos 20 caracteres</string>
+    <string name="error_imagen_requerida">Debes seleccionar una imagen</string>
+    <string name="msg_destino_guardado">Destino guardado correctamente</string>
+    <string name="msg_destino_eliminado">Destino eliminado</string>
+    <string name="msg_confirm_delete">¿Seguro que deseas eliminar este destino?</string>
+    <string name="btn_cancel">Cancelar</string>
+    <string name="btn_confirm">Confirmar</string>
+</resources>

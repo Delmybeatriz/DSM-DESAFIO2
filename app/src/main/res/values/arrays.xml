@@ -1,0 +1,14 @@
+<resources>
+    <string-array name="lista_paises">
+        <item>El Salvador</item>
+        <item>Guatemala</item>
+        <item>Honduras</item>
+        <item>Costa Rica</item>
+        <item>México</item>
+        <item>España</item>
+        <item>Francia</item>
+        <item>Italia</item>
+        <item>Japón</item>
+        <item>Estados Unidos</item>
+    </string-array>
+</resources>
