@@ -1,5 +1,5 @@
 # AgenciaViajes - Desafía
 
-## Demostracion en Video
-Puedes ver el video de demostración de la aplicación desde el siguiente enlace:
-- [Ver Video de Demostración](PEGA_AQUI_EL_ENLACE_DE_TU_VIDEO)
+## Descarga del Proyecto / APK
+Puedes descargar el archivo ZIP con el contenido desde el siguiente enlace:
+- [Descargar ZIP del APK](tu-archivo.zip)
