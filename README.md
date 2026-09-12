@@ -1,5 +1,5 @@
 # AgenciaViajes - Desafía
 
-## Descarga de la Aplicación (APK)
-Puedes descargar la versión compilada de la aplicación desde el siguiente enlace de Google Drive:
-- [Descargar APK (Google Drive)](https://drive.google.com/uc?export=download&id=1bqgMn2vilnMpdXINaTkZRE_j_lM9VlFz)
+## Demostracion en Video
+Puedes ver el video de demostración de la aplicación desde el siguiente enlace:
+- [Ver Video de Demostración](PEGA_AQUI_EL_ENLACE_DE_TU_VIDEO)
