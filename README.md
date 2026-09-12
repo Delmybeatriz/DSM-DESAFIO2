@@ -1,7 +1,11 @@
-# AgenciaViajes - Desafía
+# DSM - Desafío 2: Agencia de Viajes
 
-## Demostración en Video
-- [Ver Video de Demostración](PEGA_AQUI_EL_ENLACE_DEL_VIDEO)
+Repositorio correspondiente al Desafío 2 de la materia.
 
-## Descarga de la Aplicación (ZIP/APK)
-- [Descargar ZIP del APK](tu-archivo.zip)
+## 📱 Descarga de la Aplicación (APK)
+Puedes descargar la última versión de prueba (Debug) de la aplicación desde el siguiente enlace:
+- [Descargar app-debug.apk](./apk/app-debug.apk)
+
+## 🎥 Video de Demostración
+El funcionamiento completo de la aplicación y la explicación del proyecto se pueden visualizar en el siguiente enlace:
+- [Ver video de demostración](TU_ENLACE_DE_VIDEO_AQUI)
